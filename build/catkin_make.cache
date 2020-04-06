@@ -1,0 +1,2 @@
+follow_me:teleoperation
+-DCATKIN_DEVEL_PREFIX=/home/yerbolat/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yerbolat/catkin_ws/install -G Unix Makefiles
